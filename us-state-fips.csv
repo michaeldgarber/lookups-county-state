@@ -1,4 +1,4 @@
-name_state, fips_2digit, abbrev_usps_state
+name_state, fips_state, abbrev_usps_state
 Alabama, 01, AL
 Alaska, 02, AK
 Arizona, 04, AZ

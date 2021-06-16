@@ -1,7 +1,7 @@
 division_9_no,division_9_name,region_4_no,region_4_name,state_name
 1,New England,1,Northeast,Connecticut
 1,New England,1,Northeast,Maine
-1,New England,1,Northeast,Massachussetts
+1,New England,1,Northeast,Massachusetts
 1,New England,1,Northeast,New Hampshire
 1,New England,1,Northeast,Rhode Island
 1,New England,1,Northeast,Vermont
@@ -19,7 +19,7 @@ division_9_no,division_9_name,region_4_no,region_4_name,state_name
 4,West North Central,2,Midwest,Missouri
 4,West North Central,2,Midwest,Nebraska
 4,West North Central,2,Midwest,North Dakota
-5,South Atlantic,2,Midwest,South Dakota
+4,South Atlantic,2,Midwest,South Dakota
 5,South Atlantic,3,South,Delaware
 5,South Atlantic,3,South,Florida
 5,South Atlantic,3,South,Georgia

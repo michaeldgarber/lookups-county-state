@@ -1,1 +1,1 @@
-This repository includes a few convenience lookups for working with census data.
+This repository includes a few convenience lookup tables for working with census data.

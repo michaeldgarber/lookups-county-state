@@ -1,0 +1,52 @@
+division_9_no,division_9_name,region_4_no,region_4_name,name_state
+1,New England,1,Northeast,Connecticut
+1,New England,1,Northeast,Maine
+1,New England,1,Northeast,Massachussetts
+1,New England,1,Northeast,New Hampshire
+1,New England,1,Northeast,Rhode Island
+1,New England,1,Northeast,Vermont
+2,Mid-Atlantic,1,Northeast,New Jersey
+2,Mid-Atlantic,1,Northeast,New York
+2,Mid-Atlantic,1,Northeast,Pennsylvania
+3,East North Central,2,Midwest,Illinois
+3,East North Central,2,Midwest,Indiana
+3,East North Central,2,Midwest,Michigan
+3,East North Central,2,Midwest,Ohio
+3,East North Central,2,Midwest,Wisconsin
+4,West North Central,2,Midwest,Iowa
+4,West North Central,2,Midwest,Kansas
+4,West North Central,2,Midwest,Minnesota
+4,West North Central,2,Midwest,Missouri
+4,West North Central,2,Midwest,Nebraska
+4,West North Central,2,Midwest,North Dakota
+5,South Atlantic,2,Midwest,South Dakota
+5,South Atlantic,3,South,Delaware
+5,South Atlantic,3,South,Florida
+5,South Atlantic,3,South,Georgia
+5,South Atlantic,3,South,Maryland
+5,South Atlantic,3,South,North Carolina
+5,South Atlantic,3,South,South Carolina
+5,South Atlantic,3,South,Virginia
+5,South Atlantic,3,South,District of Columbia
+5,South Atlantic,3,South,West Virginia
+6,East South Central,3,South,Alabama
+6,East South Central,3,South,Kentucky
+6,East South Central,3,South,Mississippi
+6,East South Central,3,South,Tennessee
+7,West South Central,3,South,Arkansas
+7,West South Central,3,South,Louisiana
+7,West South Central,3,South,Oklahoma
+7,West South Central,3,South,Texas
+8,Mountain,4,West,Arizona
+8,Mountain,4,West,Colorado
+8,Mountain,4,West,Idaho
+8,Mountain,4,West,Montana
+8,Mountain,4,West,Nevada
+8,Mountain,4,West,New Mexico
+8,Mountain,4,West,Utah
+8,Mountain,4,West,Wyoming
+9,Pacific,4,West,Alaska
+9,Pacific,4,West,California
+9,Pacific,4,West,Hawaii
+9,Pacific,4,West,Oregon
+9,Pacific,4,West,Washington

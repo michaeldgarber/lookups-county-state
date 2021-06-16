@@ -1,4 +1,4 @@
-county_name,cbsa_name,urban_rural_nchs_2013
+county_fips,cbsa_name,urban_rural_nchs_2013
 01001,Montgomery- AL,3
 01003,Daphne-Fairhope-Foley- AL,4
 01005,,6
